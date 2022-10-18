@@ -1,7 +1,7 @@
 # MultiThread İle Asansör Projesi
  MultiThread kullanarak birden fazla processin aynı anda çalışması gerçekleştirilmiştir. Bu proje de asansörler üzerinde bu süreç gerçekleştirilmiştir.
 <h3>ASANSÖRLERDEKİ TALEP YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ PROJESİ</h3>
-Derya ÖZGÜ,Mehmet KIYAK
+Derya ÖZGÜ,Mehmet KIYAK<br>
 Bilgisayar Mühendisliği Bölümü/KocaeliÜniversitesi
 
 
