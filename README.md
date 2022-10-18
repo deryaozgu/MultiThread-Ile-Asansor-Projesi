@@ -1,9 +1,9 @@
 # MultiThread İle Asansör Projesi
  MultiThread kullanarak birden fazla processin aynı anda çalışması gerçekleştirilmiştir. Bu proje de asansörler üzerinde bu süreç gerçekleştirilmiştir.
-<h3<ASANSÖRLERDEKİ TALEP YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ PROJESİ</h3>
+<h3>ASANSÖRLERDEKİ TALEP YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ PROJESİ</h3>
 Derya ÖZGÜ,Mehmet KIYAK
-BilgisayarMühendisliğiBölümü
-KocaeliÜniversitesi
+Bilgisayar Mühendisliği Bölümü/KocaeliÜniversitesi
+
 
  
 <h5>Özet</h5>
@@ -11,14 +11,14 @@ Projede bir alışveriş merkezinde ki asansörlerin talep yoğunluğunun multit
 
 Program kullanıcı tarafından durdurulmaz ise veya hata olmadığı sürece sürekli alışveriş merkezine birilerinin girip çıkması şeklinde olup asansörler sürekli çalışarak hizmet vermektedir. Anlık olarak ekrana asansörlere ve katlara ait bilgiler yazılmaktadır.
 
-1.	Giriş
+<h5>1.	Giriş</h5>
 Program ilk çalışma esnasındagiriş ve çıkış sınıflarından üretilen objeler ile çalışmaya başlamaktadır. Giriş thread sürekli olarak 500ms (milisaniye) de bir alışveriş merkezine kişi ve bu kişilerin gideceği hedef katları üretmektedir.
 Çıkış thread ise sürekli olarak her 1000ms (milisaniye) de bir çıkışa gidecek olan kişi ve bu kişilerin hangi katlardan ineceğini rastgele olarak üretmektedir. Ve belirtilen sıraya göre asansörler hizmet vermektedir.
 
-2.	Temel Bilgiler
+<h5>2.	Temel Bilgiler</h5>
 ProgramJava programlama dilinde geliştirilmiş olup, tümleşik geliştirme ortamı olarak “NetBeans IDE 8.2” kullanılmıştır.Akış ve UML diyagramı için draw.ioonline diyagram yapma programı kullanılmıştır
 
-3.	Tasarım
+<h5>3.	Tasarım</h5>
 Asansörlerdeki Talep Yoğunluğunun Multithread İle Kontrolü programının programlanma aşamaları altta belirtilen başlıklar altında açıklanmıştır. 
 3.1	Algoritma
 Program ilk çalışma esnasında giriş ve çıkış sınıflarından üretilen objeler ile çalışmaya başlamaktadır. 
@@ -51,14 +51,14 @@ Bu sınıf içerisinde asansörlerimizin durumlarına göre her 200ms de bir yuk
 3.2.5.1	run: Her 150ms’de bir katlara göre asansörlerimizin durumlarını güncelleyerek hizmetin doğruluğunu sağlamaktadır.
 
 3.2.6	Yon.java: Bu sınıfı yukarıya veya aşağıya gidecek kişilerin sayılarını ve hangi kata gideceğini bilgisini tutmak için oluşturduk.
-4.	Sonuçlar
+<h5>4.	Sonuçlar</h5>
 Programımız proje kapsamında istenilen tüm isterleri yerine getirmektedir. Program da sadece bir hata mevcuttur hatanın nedenini çözemediğimizden tamamlayamadık.
 
-5.	Kaynakça
+<h5>5.	Kaynakça</h5>
 [1]	https://www.udemy.com/course-dashboard-redirect/?course_id=1421116kaynağından java diline ait gerekli terimler ve multithread işlemleri hakkında bilgiler edinildi.
 
 [2]	https://www.tutorialspoint.com/java/java_multithreading.htmkaynağından karşılaştığımız bazı hatalara karşı çözümler elde edildi.
 
-6. Denklemler
+<h5>6. Denklemler</h5>
 Program içerisinde matematiksel olarak çok büyük hesaplama bulunmadığı üzere küçük bazı denklemler kullanılmıştır.
 
