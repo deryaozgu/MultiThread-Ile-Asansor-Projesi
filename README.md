@@ -62,3 +62,4 @@ Programımız proje kapsamında istenilen tüm isterleri yerine getirmektedir. P
 <h5>6. Denklemler</h5>
 Program içerisinde matematiksel olarak çok büyük hesaplama bulunmadığı üzere küçük bazı denklemler kullanılmıştır.
 
+![image](https://user-images.githubusercontent.com/73393361/196513066-9e68fdb6-3f35-42b5-8a4a-f64103c49183.png)
