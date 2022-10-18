@@ -68,5 +68,6 @@ Program içerisinde matematiksel olarak çok büyük hesaplama bulunmadığı ü
 <h5>8. UML Diyagramı</h5>
 ![image](https://user-images.githubusercontent.com/73393361/196513656-82c8642f-4a16-4eb4-8090-dda47ca37bd9.png)
 
+![image](https://user-images.githubusercontent.com/73393361/196514107-1e8d40fb-d069-4d3d-92c7-65878344731a.png)
 
 
