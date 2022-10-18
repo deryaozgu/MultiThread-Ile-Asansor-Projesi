@@ -61,5 +61,10 @@ Programımız proje kapsamında istenilen tüm isterleri yerine getirmektedir. P
 
 <h5>6. Denklemler</h5>
 Program içerisinde matematiksel olarak çok büyük hesaplama bulunmadığı üzere küçük bazı denklemler kullanılmıştır.
+<h5>7. Ekran Çıktısı</h5>
 
 ![image](https://user-images.githubusercontent.com/73393361/196513066-9e68fdb6-3f35-42b5-8a4a-f64103c49183.png)
+
+<h5>8. UML Diyagramı</h5>
+![image](https://user-images.githubusercontent.com/73393361/196513530-f3414493-c719-44a6-b356-6b0df4aebf5e.png)
+
